@@ -187,4 +187,4 @@ If you have created something cool, send me a note (or tweet) and I'll be happy 
 If you'd like to cite this work, use the below.
 
 Victor Dibia, Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow, (2017), GitHub repository, https://github.com/victordibia/handtracking
-```bib
+```bib
