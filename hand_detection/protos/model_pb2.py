@@ -87,4 +87,4 @@ DetectionModel = _reflection.GeneratedProtocolMessageType('DetectionModel', (_me
 _sym_db.RegisterMessage(DetectionModel)
 
 
-# @@protoc_insertion_point(module_scope)
+# @@protoc_insertion_point(module_scope)
