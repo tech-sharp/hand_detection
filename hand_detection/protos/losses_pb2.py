@@ -570,4 +570,4 @@ HardExampleMiner = _reflection.GeneratedProtocolMessageType('HardExampleMiner', 
 _sym_db.RegisterMessage(HardExampleMiner)
 
 
-# @@protoc_insertion_point(module_scope)
+# @@protoc_insertion_point(module_scope)

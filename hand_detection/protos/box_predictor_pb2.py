@@ -365,4 +365,4 @@ RfcnBoxPredictor = _reflection.GeneratedProtocolMessageType('RfcnBoxPredictor', 
 _sym_db.RegisterMessage(RfcnBoxPredictor)
 
 
-# @@protoc_insertion_point(module_scope)
+# @@protoc_insertion_point(module_scope)
