@@ -517,4 +517,4 @@ _sym_db.RegisterMessage(ManualStepLearningRate)
 _sym_db.RegisterMessage(ManualStepLearningRate.LearningRateSchedule)
 
 
-# @@protoc_insertion_point(module_scope)
+# @@protoc_insertion_point(module_scope)
