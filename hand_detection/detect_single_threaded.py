@@ -118,4 +118,4 @@ if __name__ == '__main__':
                 break
         else:
             print("frames processed: ", num_frames, "elapsed time: ",
-                  elapsed_time, "fps: ", str(int(fps)))
+                  elapsed_time, "fps: ", str(int(fps)))
